@@ -1,5 +1,3 @@
-* [ ] 
-
 # SubT: Subspace Tuning for Few-shot Generalization of Audio-Language Models
 
 > **[EMNLP 2026 Findings] Official implementation of "Subspace Tuning for Few-shot Generalization of Audio-Language Models"**
