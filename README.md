@@ -5,7 +5,7 @@
   <br><br>
   <a href="https://jhyukjang.github.io/">Jaehyuk Jang</a>, Kangwook Ko, <a href="https://wonjun-lee1009.github.io/">Wonjun Lee</a>, <a href="https://cilabs.kaist.ac.kr/members">Changick Kim</a>
   <br>
-  KAIST, Republic of Korea
+  KAIST
 </p>
 
 ## Installation
@@ -70,6 +70,21 @@ bash scripts/run_all_datasets_subt.sh
 ## Citation
 
 If you find this repository useful, please cite our paper.
+
+
+```
+```bibtex
+@article{jang2026constraining,
+  title={SubT: Subspace Tuning for Few-shot Generalization of Audio-Language Models},
+  author={Jang, Jaehyuk and Ko, Kangwook and Lee, Wonjun and Kim, Changick},
+  journal={arXiv preprint arXiv:2606.18560},
+  year={2026}
+}
+}
+```
+
+```
+```
 
 ## Acknowledgements
 
