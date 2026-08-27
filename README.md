@@ -1,10 +1,12 @@
 # SubT: Subspace Tuning for Few-shot Generalization of Audio-Language Models
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2606.18560)
-
-This repository contains the official pytorch implementation of the paper: "SubT: Subspace Tuning for Few-shot Generalization of Audio-Language Models".
-
-[Jaehyuk Jang](https://jhyukjang.github.io/), Kangwook Ko, [Wonjun Lee](https://wonjun-lee1009.github.io/), [Changick Kim](https://cilabs.kaist.ac.kr/members)
+<p align="center">
+  <a href="https://arxiv.org/abs/2606.18560"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv Paper"></a>
+  <br><br>
+  <a href="https://jhyukjang.github.io/">Jaehyuk Jang</a>, Kangwook Ko, <a href="https://wonjun-lee1009.github.io/">Wonjun Lee</a>, <a href="https://cilabs.kaist.ac.kr/members">Changick Kim</a>
+  <br>
+  KAIST, Republic of Korea
+</p>
 
 ## Installation
 
