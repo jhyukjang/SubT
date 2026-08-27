@@ -73,13 +73,9 @@ If you find this repository useful, please cite our paper.
 
 ```bibtex
 @article{jang2026constraining,
-
   title={SubT: Subspace Tuning for Few-shot Generalization of Audio-Language Models},
-
   author={Jang, Jaehyuk and Ko, Kangwook and Lee, Wonjun and Kim, Changick},
-
   journal={arXiv preprint arXiv:2606.18560},
-
   year={2026},
 }
 ```
